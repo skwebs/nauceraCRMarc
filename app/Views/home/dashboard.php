@@ -59,48 +59,7 @@
                <div class="row">
                   <div class="col-12">
 
-                     <div class="card">
-                        <div class="card-header">
-                           <h3 class="card-title">Employee Details</h3>
-                        </div>
-                        <!-- /.card-header -->
-                        <div class="card-body">
-                           <table id="example1" class="table table-bordered table-striped">
-                              <thead>
-                                 <tr>
-                                    <th>Date</th>
-                                    <th>Particulars</th>
-                                    <th>Assign By</th>
-                                    <th>Assign To</th>
-                                    <th>Remarks</th>
-                                 </tr>
-                              </thead>
-                              <tbody>
-                                 <?php for ($i = 1; $i < 100; $i++) :   ?>
-                                    <tr>
-                                       <td>07/06/2021</td>
-                                       <td>Packing Machine installation</td>
-                                       <td>Vipal Jain</td>
-                                       <td>Bijay Pareek</td>
-                                       <td>Dimenssion not received.</td>
-                                    </tr>
-                                 <?php endfor; ?>
 
-                              </tbody>
-                              <tfoot>
-                                 <tr>
-                                    <th>Employee Id</th>
-                                    <th>Name</th>
-                                    <th>Address</th>
-                                    <th>Contact No.</th>
-                                    <th>Email</th>
-                                 </tr>
-                              </tfoot>
-                           </table>
-                        </div>
-                        <!-- /.card-body -->
-                     </div>
-                     <!-- /.card -->
                   </div>
                   <!-- /.col -->
                </div>
